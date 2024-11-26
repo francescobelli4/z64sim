@@ -11,15 +11,16 @@ This is a simulator for the z64 CPU, a fictional CPU designed for educational pu
 
 ## Getting and running the simulator
 
-Official builds are available through [GitHub Releases](https://github.com/alessandropellegrini/z64sim/releases). 
+Official builds are available through [GitHub Releases](https://github.com/alessandropellegrini/z64sim/releases).
 In order to run it, you need to have Java 11 or newer installed. To run the simulator, simply run the following command:
 
     java -jar z64sim.jar
 
 or double-click on the `z64sim.jar` file if your system supports it.
 
-**Be careful**: The simulator is currently in a very early stage of development, and it is therefore exerimental. If you
-happen to find a bug, please report it on the [issue tracker](https://github.com/alessandropellegrini/z64sim/issues).
+**Be careful**: The simulator is currently in a very early stage of development, and it is therefore experimental. If
+you happen to find a bug, please report it on
+the [issue tracker](https://github.com/alessandropellegrini/z64sim/issues).
 Please provide a detailed description of the bug, and if possible, a minimal example that reproduces it.
 
 ## Using the simulator
